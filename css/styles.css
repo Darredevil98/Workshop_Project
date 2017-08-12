@@ -1,0 +1,24 @@
+h1 {
+  color: white;
+  background-color: black;
+}
+
+.item{
+  font-family: monospace;
+}
+
+#modify-item {
+  color: #5179ba;
+}
+
+#goals{
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+#picture{
+  width:60%;
+  float: right;
+  border: solid;
+  border-color: grey gray gray grey;
+}
